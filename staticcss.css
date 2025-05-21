@@ -11,3 +11,36 @@
 .borderRadius{
     border-radius: 10px;
 }
+.form-container{
+    width: 100%;
+    height: 100%;
+    padding-top: 20px;
+    background-color: red;
+}
+.form-container h1{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.form-container .form-group{
+    background-color: blue;
+    width: 90%;
+    height: 34px;
+    margin-left: 5%;
+    margin-bottom: 10px;
+}
+
+.form-container .form-group input{
+    width: 93.8%;
+    height: 60%;
+    padding: 5px;
+    padding-left: 20px;
+}
+.form-container .form-group input[type="submit"]{
+    width: 100%;
+    height: 100%;
+    font-size: larger;
+    background-color: blue;
+    border: none;
+    color: white;
+}
