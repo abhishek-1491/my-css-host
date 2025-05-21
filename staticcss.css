@@ -17,7 +17,7 @@
     padding-top: 20px;
     background-color: red;
 }
-.form-container h1{
+.form-container .h1{
     margin-bottom: 30px;
     text-align: center;
 }
@@ -30,13 +30,13 @@
     margin-bottom: 10px;
 }
 
-.form-container .form-group input{
+.form-container .form-group .input{
     width: 93.8%;
     height: 60%;
     padding: 5px;
     padding-left: 20px;
 }
-.form-container .form-group input[type="submit"]{
+.form-container .form-group .submit{
     width: 100%;
     height: 100%;
     font-size: larger;
